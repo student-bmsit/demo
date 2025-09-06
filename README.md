@@ -1,3 +1,4 @@
 # demo
-this is my first github repository
-author=Anshika vishwakarma
+This is my first Github repository.
+<br>
+Author:Anshika Vishwakarma
